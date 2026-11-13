@@ -1,7 +1,8 @@
 # Development and verification
 
-Run commands from the project folder, still named `octopus-v2c`. The app and
-current artifacts are named **octopus-kia**. Target is **emery only**.
+Run commands from the project root: normally `octopus-kia` after cloning from
+GitHub, or `octopus-v2c` in the original development workspace. The app and current
+artifacts are named **octopus-kia**. Target is **emery only**.
 
 ## Tests and environment
 

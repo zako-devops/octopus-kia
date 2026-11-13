@@ -2,8 +2,10 @@
 
 Spanish watchapp for **Pebble Time 2** (`emery`, 200×228), combining Kia battery
 information from Pleos with Octopus Energy Spain / V2C Trydan charging controls.
-Formerly **octopus-v2c**; the project folder keeps that name. The app UUID and
-phone storage keys are unchanged so an update retains its existing identity.
+Formerly **octopus-v2c**; this development workspace retains that folder name.
+A normal clone of [the GitHub repository](https://github.com/zako-devops/octopus-kia)
+creates an octopus-kia folder. The app UUID and phone storage keys are unchanged
+so an update retains its existing identity.
 
 English disclaimer: This app is available in Spanish only because it is designed
 exclusively for Octopus Energy Spain. It does not work with Octopus Energy

@@ -86,9 +86,13 @@ helpers now store local receipts/fences there, away from disposable artifacts/.
 Parent properties files and SDK/phone storage were not changed.
 
 The store preview uses five selected current images and remains a **local draft**;
-publication_authorized is false for the Appstore. The user separately authorized
-a public GitHub source repository at https://github.com/zako-devops/octopus-kia
-and selected the MIT license. GitHub publication does not authorize Appstore upload.
+publication_authorized is false for the Appstore. The public GitHub source
+repository is published at https://github.com/zako-devops/octopus-kia with the
+MIT license and main as its default branch. GitHub identity, public visibility,
+license detection and remote commit were verified. Initial publication contains
+81 audited files; credentials, local records and generated output are excluded.
+All 91 tests passed locally before publication. GitHub publication does not
+authorize Appstore upload.
 The cleanup uses a public npm tarball URL with the existing lockfile integrity.
 The source-to-publish check found 77 files (about 342 KiB); exact credential,
 ignore-rule and screenshot/store checksum checks passed. All 91 tests passed
