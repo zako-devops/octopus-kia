@@ -1,0 +1,14 @@
+{
+  "installed_at_utc": "2026-11-13T16:17:52.319511+00:00",
+  "installed_at_madrid": "2026-11-13T17:17:52.319511+01:00",
+  "name": "octopus-kia",
+  "version": "0.1.0",
+  "uuid": "d8ebdf30-61e3-4157-9e88-f5364d939733",
+  "bytes": 754042,
+  "sha256": "9a15dbb465a2240388ced564225bd9935690b3aef8f80f612e9548b62be8fe4a",
+  "production": true,
+  "credential_scan": "passed",
+  "sdk_result": "App install succeeded.",
+  "exit_code": 0,
+  "physical_ui_and_reliability": "awaiting user validation"
+}

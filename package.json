@@ -1,0 +1,106 @@
+{
+  "name": "octopus-kia",
+  "author": "zako-devops",
+  "version": "0.1.0",
+  "keywords": [
+    "pebble-app",
+    "kia",
+    "octopus-energy",
+    "v2c",
+    "smart-charging"
+  ],
+  "private": true,
+  "dependencies": {
+    "@rebble/clay": "^1.1.0"
+  },
+  "pebble": {
+    "displayName": "octopus-kia",
+    "uuid": "d8ebdf30-61e3-4157-9e88-f5364d939733",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "SETTINGS_SAVED",
+      "KIA_CONFIGURED",
+      "OCTOPUS_CONFIGURED",
+      "REFRESH",
+      "LOADING",
+      "KIA_STATE",
+      "OCTOPUS_STATE",
+      "SOC",
+      "SOC_TEXT",
+      "ADD_TEXT",
+      "READY",
+      "PLAN_TEXT",
+      "KIA_TIME",
+      "NOTE",
+      "EXTRA_80",
+      "EXTRA_100",
+      "REASON_80",
+      "REASON_100",
+      "KIA_FRESH",
+      "CHARGER_PHASE",
+      "CHARGER_TEXT",
+      "SCHEDULE_UNTIL",
+      "PREPARE_TARGET",
+      "CONFIRM_OFFER",
+      "CANCEL_OFFER",
+      "CONTROL_STATE",
+      "CONTROL_TEXT",
+      "OFFER_ID",
+      "OFFER_TARGET",
+      "OFFER_SOC",
+      "OFFER_EXTRA",
+      "OFFER_READY",
+      "SIMULATION",
+      "OFFER_DAY",
+      "VEHICLE_MODEL",
+      "PREPARE_BOOST",
+      "PREPARE_STOP_BOOST"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "OCTOPUS_LOGO",
+          "file": "images/octopus-favicon-16.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "OCTOPUS_MENU_ICON",
+          "file": "images/octopus-favicon-16.png",
+          "menuIcon": true
+        }
+      ]
+    },
+    "usesPermissions": [
+      {
+        "name": "Internet",
+        "parameters": {
+          "domains": [
+            "api.pleos.ai",
+            "api.oees-kraken.energy"
+          ]
+        }
+      }
+    ]
+  },
+  "description": "Batería Kia y carga inteligente Octopus/V2C desde Pebble Time 2.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zako-devops/octopus-kia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zako-devops/octopus-kia/issues"
+  },
+  "homepage": "https://github.com/zako-devops/octopus-kia#readme"
+}

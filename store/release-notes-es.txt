@@ -1,0 +1,7 @@
+Versión inicial para Pebble Time 2.
+
+Consulta de batería Kia, preferencias y plan de carga Octopus/V2C. Objetivos del 80% y 100% con confirmación Sí/No, comprobación del límite AC y verificación de las preferencias enviadas. Configuración de cuentas desde la app Pebble en Android.
+
+Nuevo: Forzar carga ahora, con confirmación, verificación de conexión y lectura de estado después del envío.
+
+Nuevo: Detener carga en el reloj mientras la carga forzada está activa, con confirmación y verificación del regreso al control inteligente.

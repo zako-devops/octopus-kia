@@ -1,0 +1,60 @@
+{
+  "status": "local draft; user chose not to submit",
+  "publication_authorized": false,
+  "name": "octopus-kia",
+  "author": "zako-devops",
+  "uuid": "d8ebdf30-61e3-4157-9e88-f5364d939733",
+  "version": "0.1.0",
+  "category": "Remotes",
+  "language": "es",
+  "suggested_visibility": "Unlisted",
+  "description_file": "description-es.txt",
+  "release_notes_file": "release-notes-es.txt",
+  "website_url": "https://github.com/zako-devops/octopus-kia#readme",
+  "source_code_url": "https://github.com/zako-devops/octopus-kia",
+  "icon_small": "assets/icon-80.png",
+  "icon_large": "assets/icon-144.png",
+  "banner": {
+    "emery": "assets/banner-emery.png"
+  },
+  "screenshots": {
+    "emery": [
+      {
+        "file": "screenshots/emery_01-dashboard.png",
+        "caption": "Batería EV6, carga adicional y hora de salida.",
+        "source": "docs/screenshots/dashboard.png",
+        "sha256": "04482eacf2340176059b54c643d32bb9c5e0ce847fd67f597aedc6a27fcc4ac8",
+        "illustrative": true
+      },
+      {
+        "file": "screenshots/emery_02-actions.png",
+        "caption": "Objetivos del 80%/100% y carga inmediata.",
+        "source": "docs/screenshots/actions.png",
+        "sha256": "cc539a701f5806f5201c1e3518acd27ef4351fb7f609988f64d7b2f00f102744",
+        "illustrative": true
+      },
+      {
+        "file": "screenshots/emery_03-start.png",
+        "caption": "Confirma la carga inmediata; No por defecto.",
+        "source": "docs/screenshots/start-confirmation.png",
+        "sha256": "6c18c76fa9b5e77c1b33294bcc1e1a415c4d19801e714b9ece23b8559cf89af8",
+        "illustrative": true
+      },
+      {
+        "file": "screenshots/emery_04-stop.png",
+        "caption": "Detén la carga forzada y vuelve al plan inteligente.",
+        "source": "docs/screenshots/stop-confirmation.png",
+        "sha256": "fea702656402625f0dad06c433c6ac27b6dc1232e64a04ae5730e1bf2e0c66db",
+        "illustrative": true
+      },
+      {
+        "file": "screenshots/emery_05-result.png",
+        "caption": "Verificación del regreso al control inteligente.",
+        "source": "docs/screenshots/stop-result.png",
+        "sha256": "b5b2e1fe52787b732e1b7ef2ad0224978d63cc3ff612f7dd5bb21e13bc7ca051",
+        "illustrative": true
+      }
+    ]
+  },
+  "note": "This is a local preparation manifest, not a publish-tool configuration."
+}

@@ -1,0 +1,12 @@
+{
+  "checked_date": "2026-11-13",
+  "production": true,
+  "name": "octopus-kia",
+  "uuid": "d8ebdf30-61e3-4157-9e88-f5364d939733",
+  "bytes": 754042,
+  "sha256": "9a15dbb465a2240388ced564225bd9935690b3aef8f80f612e9548b62be8fe4a",
+  "credential_scan": "passed",
+  "physical_install": false,
+  "node_tests_passed": 91,
+  "stop_menu": true
+}

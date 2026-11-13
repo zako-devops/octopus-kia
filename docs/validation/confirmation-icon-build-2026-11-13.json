@@ -1,0 +1,21 @@
+{
+  "checked_date": "2026-11-13",
+  "change": "Tick icon for all confirmation screens",
+  "production": true,
+  "name": "octopus-kia",
+  "uuid": "d8ebdf30-61e3-4157-9e88-f5364d939733",
+  "bytes": 754095,
+  "sha256": "d026e0ab1e508de979be945d1070129331db1281bab9b2b3a943bbdd2ac14847",
+  "credential_scan": "passed",
+  "emulator_confirmations": [
+    "80%",
+    "100%",
+    "BOOST",
+    "CANCEL"
+  ],
+  "return_arrow_preserved": [
+    "plan",
+    "result"
+  ],
+  "physical_install": false
+}

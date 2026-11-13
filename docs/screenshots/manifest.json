@@ -1,0 +1,85 @@
+[
+  {
+    "file": "dashboard.png",
+    "title": "EV6 battery dashboard",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "04482eacf2340176059b54c643d32bb9c5e0ce847fd67f597aedc6a27fcc4ac8"
+  },
+  {
+    "file": "launcher.png",
+    "title": "Renamed launcher entry",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "7f908c9dfbd807cc3778665283fd45939f09da4e4794e6e07e17b91b28f5133d"
+  },
+  {
+    "file": "actions.png",
+    "title": "Charge targets and immediate-charge action",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "cc539a701f5806f5201c1e3518acd27ef4351fb7f609988f64d7b2f00f102744"
+  },
+  {
+    "file": "start-confirmation.png",
+    "title": "Start confirmation, No selected",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "6c18c76fa9b5e77c1b33294bcc1e1a415c4d19801e714b9ece23b8559cf89af8",
+    "confirmation_icon": "tick"
+  },
+  {
+    "file": "boost-active.png",
+    "title": "Verified simulated boost",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "f1cb95502a0f170710330a4b772be4621fce5e14ba1785d4bd570920a9c58e61"
+  },
+  {
+    "file": "stop-menu.png",
+    "title": "Stop action during boost",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "5915f6533e8ab7bd416689ee24ccd8751f02cc79dc1318f638c3a249a30fa717"
+  },
+  {
+    "file": "stop-confirmation.png",
+    "title": "Stop confirmation, No selected",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "fea702656402625f0dad06c433c6ac27b6dc1232e64a04ae5730e1bf2e0c66db",
+    "confirmation_icon": "tick"
+  },
+  {
+    "file": "stop-result.png",
+    "title": "Verified simulated stop",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "b5b2e1fe52787b732e1b7ef2ad0224978d63cc3ff612f7dd5bb21e13bc7ca051"
+  },
+  {
+    "file": "smart-control-restored.png",
+    "title": "Smart control restored",
+    "captured_date": "2026-11-13",
+    "mode": "offline synthetic emulator",
+    "width": 200,
+    "height": 228,
+    "sha256": "04482eacf2340176059b54c643d32bb9c5e0ce847fd67f597aedc6a27fcc4ac8"
+  }
+]

@@ -1,0 +1,20 @@
+# Generated SDK/dependency output
+/build/
+/artifacts/
+/node_modules/
+.lock-waf*
+__pycache__/
+*.py[cod]
+*.pbw
+
+# Local credentials, operational receipts and trial guards
+/.local/
+*.properties
+.env
+.env.*
+*.local.json
+
+# Editor/OS files
+.DS_Store
+*.swp
+*~

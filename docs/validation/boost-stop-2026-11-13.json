@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-11-13T12:15:55.534759+00:00",
+  "finished_at_utc": "2026-11-13T12:15:59.911498+00:00",
+  "write_requests": 1,
+  "outcome": "boost_cancelled_smart_control_restored",
+  "acknowledged": true,
+  "before": {
+    "current": "LIVE",
+    "currentState": "BOOSTING",
+    "isSuspended": false
+  },
+  "after": {
+    "current": "LIVE",
+    "currentState": "SMART_CONTROL_CAPABLE",
+    "isSuspended": false
+  },
+  "preferences_unchanged": true
+}

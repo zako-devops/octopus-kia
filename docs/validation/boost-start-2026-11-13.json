@@ -1,0 +1,24 @@
+{
+  "started_at": "2026-11-13T12:11:22.197Z",
+  "finished_at": "2026-11-13T12:11:28.112Z",
+  "writes": 1,
+  "result": {
+    "state": 4,
+    "message": "Carga inmediata activa\nConfirmada por Octopus"
+  },
+  "preferences_unchanged": true,
+  "before": {
+    "phase": 1,
+    "label": "Carga inteligente",
+    "octopus_state": 1,
+    "add": "+21%",
+    "ready": "11:00"
+  },
+  "after": {
+    "phase": 6,
+    "label": "Carga r\u00e1pida",
+    "octopus_state": 1,
+    "add": "+21%",
+    "ready": "11:00"
+  }
+}
